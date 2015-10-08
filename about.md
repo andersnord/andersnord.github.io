@@ -6,8 +6,18 @@ permalink: /about/
 
 ![My helpful screenshot]({{ site.baseurl }}/assets/about/profile.png)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Anders Nord and I am currently doing my master thesis at Frostbite - Electronic Arts. I am otherwise attending the Master of Science (M.Sc.), Media Technology and Engineering program at Linköping University in Sweden. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+My big passions in life are programming, creating music, paint, or when i can, combine them all.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+<!-- Have these things here? -->
+
+#### Main programming skills are: ####
+C++, C#, C, JAVA, JavaScript, WebGL, GLSL, OpenGL, AS3, HTML, CSS, MySQL, PHP, MATLAB, WPF/XAML
+
+#### Programs: ####
+
+Blender, 3D max, Cubase, Photoshop, Microsoft Office Suite
+
+<!-- Have links to CV and courses? probably use LinkedIn instead -->
