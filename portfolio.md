@@ -7,12 +7,14 @@ permalink: /portfolio/
 <ul>
 	{% for post in site.tags.portfolio %}
 	 	<li>
-	        <a href="{{ post.url }}">{{ post.title }}</a>
-	        <span class="date"> -  {{ post.date | date: "%B %-d, %Y"  }}</span>
-	        <br>
+	 		<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+		 	<h2>
+		        <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+	        </h2>
 	        <a href="{{ post.url }}">
 	        	<image src="{{ site.baseurl }}{{post.avatarurl}}" style="height:200px; max-width:100%;"/>
 	        </a>
+
 	  	</li>
 	  	<br>
 	{% endfor %}

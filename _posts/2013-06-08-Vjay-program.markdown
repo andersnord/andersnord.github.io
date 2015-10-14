@@ -7,6 +7,8 @@ avatarurl: /assets/portfolio/vjay/blur_stars_sphere_eq.png
 tags:
 - school
 - portfolio
+- C++
+- GLSL
 ---
 
 <iframe src="http://player.vimeo.com/video/75007341?color=4B0082" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 

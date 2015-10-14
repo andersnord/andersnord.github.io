@@ -7,6 +7,7 @@ avatarurl: /assets/portfolio/bftp/3.png
 tags:
 - school
 - portfolio
+- Actionscript
 ---
 
 <iframe src="http://player.vimeo.com/video/79030898?color=4B0082" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 

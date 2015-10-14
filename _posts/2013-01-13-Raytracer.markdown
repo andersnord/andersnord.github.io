@@ -7,6 +7,7 @@ avatarurl: /assets/portfolio/raytracer/1.bmp
 tags:
 - school
 - portfolio
+- C++
 ---
 
 <img src="{{ site.baseurl }}/assets/portfolio/raytracer/1.bmp" height="230" width="230" /> 

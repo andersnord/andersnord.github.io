@@ -7,6 +7,8 @@ avatarurl: /assets/portfolio/smoke/fField_2.png
 tags:
 - school
 - portfolio
+- C++
+- GLSL
 ---
 
 <iframe src="http://player.vimeo.com/video/75007723?color=4B0082" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
@@ -38,7 +40,7 @@ This project has been implemented in programming language C/C++ on the GPU. This
 
 <div class="img">
 	<ul id="menu">
-		<li><a href="{{ site.baseurl }}/assets/portfolio/smoke/fField_2.png.png">
+		<li><a href="{{ site.baseurl }}/assets/portfolio/smoke/fField_2.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/smoke/fField_2.png"/>
 		</a>
 		</li>
