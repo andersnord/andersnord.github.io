@@ -12,7 +12,7 @@ permalink: /portfolio/
 		        <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
 	        </h2>
 	        <a href="{{ post.url }}">
-	        	<image src="{{ site.baseurl }}{{post.avatarurl}}" style="height:200px; max-width:100%;"/>
+	        	<image src="{{ site.baseurl }}{{post.avatarurl}}" style="max-height:200px; max-width:100%;"/>
 	        </a>
 
 	  	</li>

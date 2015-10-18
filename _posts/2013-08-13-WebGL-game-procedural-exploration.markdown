@@ -7,7 +7,8 @@ avatarurl: /assets/portfolio/proceduralexploration/procedural_main.png
 tags:
 - school
 - portfolio
-- WebGL
+- webgl
+- javascript
 ---
 
 <iframe src="http://player.vimeo.com/video/75006612?color=4B0082" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 

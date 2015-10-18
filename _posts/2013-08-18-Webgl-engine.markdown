@@ -7,8 +7,8 @@ avatarurl: /assets/portfolio/webglengine/ver9.png
 tags:
 - school
 - portfolio
-- Javascript
-- GLSL
+- javascript
+- webgl
 ---
 
 <iframe src="http://player.vimeo.com/video/75006611?color=4B0082" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
