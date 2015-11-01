@@ -5,15 +5,20 @@ permalink: /about/
 ---
 
 <img src="{{ site.baseurl }}/assets/about/profile.png" height="400px">
-<!-- ![My helpful screenshot]({{ site.baseurl }}/assets/about/profile.png) -->
 
-My name is Anders Nord and I am currently doing my master thesis at Frostbite - Electronic Arts. I am otherwise attending the Master of Science (M.Sc.), Media Technology and Engineering program at Linköping University in Sweden. 
+My name is Anders Nord and I am currently working as a software developer in the interactions team at the R&D part of **[Tobii Tech][TobiiTech]** in Stockholm. 
 
-My big passions in life are programming, creating music, paint, or when i can, combine them all.
+My main profession is programmer but that is not how I would entitle myself. UX is constantly present during my daily work when I am creating new and unexplored interactions through eye tracking. Because of this it is necessary to consider the end user experience from many angles to be able to create something that feels natural and like a must-have.
 
-#### Main programming skills are: ####
-C++, C#, C, JAVA, JavaScript, WebGL, GLSL, OpenGL, AS3, HTML, CSS, MySQL, PHP, MATLAB, WPF/XAML
+My passions in life are programming, making games and creating music. Getting together with my friends and drink a few beers is not too bad either.
 
-#### Programs: ####
+**[CV at LinkedIn][LinkedIn]**
 
-Blender, 3D max, Cubase, Photoshop, Microsoft Office Suite
+**[Portfolio][Portfolio]**
+
+**[Tech posts][Blog]**
+
+[TobiiTech]: http://www.tobii.com/tech/
+[LinkedIn]: https://se.linkedin.com/in/andersnord
+[Portfolio]: {{site.baseurl}}/portfolio/
+[Blog]: {{site.baseurl}}/
