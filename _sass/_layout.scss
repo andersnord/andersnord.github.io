@@ -243,3 +243,26 @@
 .excerpt {
     width: 400px;
 }
+
+.dropdownlist { 
+    margin: 2px;
+    padding: 2px; 
+    //border: 2px solid grey; 
+    width: 200px;
+
+    h3 {
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        display: inline;
+        background: #e0e0e0;
+        margin: 0px;
+        padding: 2px;
+    }
+}
+.dropdownlist > ul { display: none; }
+.dropdownlist:hover > ul {display: block; background: #f9f9f9; border-top: 1px;}
+//.dropdownlist:hover > ul > li { padding: 5px; border-bottom: 1px solid #4f4f4f;}
+.dropdownlist:hover > ul > li:hover { background: white;}
+.dropdownlist:hover > ul > li:hover > a { color: red; }
+

@@ -20,7 +20,8 @@ title: Posts
       {% assign posts = tag | last %}
       {% if t != 'portfolio' and t != 'school' %}
 
-        {{ t | downcase }}
+      <div class="dropdownlist">
+        <h3>{{ t | downcase }}</h3>
         <ul>
           {% for post in posts %}
             {% if post.tags contains t %}
@@ -32,6 +33,7 @@ title: Posts
             {% endif %}
           {% endfor %}
         </ul>
+      </div>
       {% endif %}
     {% endfor %}
   </div>
