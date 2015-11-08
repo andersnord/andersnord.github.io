@@ -261,8 +261,14 @@
     }
 }
 .dropdownlist > ul { display: none; }
-.dropdownlist:hover > ul {display: block; background: #f9f9f9; border-top: 1px;}
-//.dropdownlist:hover > ul > li { padding: 5px; border-bottom: 1px solid #4f4f4f;}
-.dropdownlist:hover > ul > li:hover { background: white;}
-.dropdownlist:hover > ul > li:hover > a { color: red; }
+.dropdownlist:hover > ul {
+    padding: 2px;
+    display: block; background: #f9f9f9; border-top: 1px;
+    border-radius: 5px;
+
+}
+.dropdownlist:hover > ul > li:hover > a { 
+    color: black; 
+    background: f2f2f2;
+}
 

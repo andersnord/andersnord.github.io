@@ -17,7 +17,7 @@ I did my master thesis at Frostbite - Electronic Arts on the subject of procedur
 
 #### Implementation ####
 
-The tool was implemented using C# and WPF for GUI. Please see the report for more details.
+The tool was implemented using C# and WPF. Please see the report for more details.
 
 ## [Report][ThesisReport] ##
 
