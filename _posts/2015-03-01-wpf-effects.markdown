@@ -11,7 +11,7 @@ tags:
 
 <img src="{{ site.baseurl }}/assets/portfolio/wpfeffect/all4.png" height="200px"/> 
 
-In this post I will be talking shortly about using pixel shaders written in HLSL for WPF. These can be used to create more advanced visual effects. In my example I have created some procedural noise shaders, such as perlin noise and voronoi noise 2D and 3D. **[Source code here][GitHubLink]**.
+In this post I will be talking shortly about using pixel shaders written in HLSL for WPF. These can be used to create more advanced visual effects. In my example I have created some procedural noise shaders, such as perlin noise and voronoi noise 2D and 3D. Notice that they will animate when clicked. **[Source code here][GitHubLink]**.
 
 WPF has a base class called ShaderEffect that is used by all effects. By using this class it is possible to wrap HLSL pixel shaders and apply them to elements in XAML. Dependency properties are bound to the HLSL input like this:
 
