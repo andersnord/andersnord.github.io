@@ -70,7 +70,7 @@ There is a lot of code missing here, but I just wanted to show the basic idea. P
 
 A great tool for helping out is the shader editor **[Shazzam][shazzam]**. Shazzam also compiles the .fx files into .ps files and generates C# wrappers, which is really handy. It supports Shader Model 3 pixel shaders (can be set under Settings). 
 
-For a much more detailed explanation for how to implement pixel shaders in WPF, please visit this **[this Shader Effect tutorial][ShaderEffectTutorial]**.
+For a more detailed explanation regarding how to implement pixel shaders in WPF, please visit this **[this Shader Effects tutorial][ShaderEffectTutorial]**.
 
 #### Images ####
 
