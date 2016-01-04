@@ -12,6 +12,8 @@ tags:
 
 I have looked into the relatively new programming language Rust. While doing so I made a graphical application that uses the fibonacci sequence to draw lines. Please see the **[source code][RustFibonacciGit]** for implementation details, but think of the code as quick and dirty since I just wanted to try out the language while doing a fun small project.
 
+<img src="{{ site.baseurl }}/assets/portfolio/rustfibonacci/fibonacci.gif" height="200px">
+
 I rather like the ideas behind Rust. These quotes from their book describes it pretty well:
 
 > Rust is a systems programming language focused on three goals: safety, speed, and concurrency. It maintains these goals without having a garbage collector... 
@@ -23,6 +25,8 @@ The idea of rust seems to be trying to feel lika a high level language like c#, 
 **[Rust 1.0][Rust1]** was released the 15th of May 2015 so it is a relatively new language. This was most noticable when trying to get the open source graphics libraries to work on Windows. I found Glium which worked directly out of the box and was a OpenGL wrapper that did what I needed. Rust has a few open source projects for graphics engines as well.
 
 Visual Code has added Rust to their supported languages and you are also able to run the compiler from within the editor which is nice. See the Visual Code link below for instructions.
+
+
 
 ####Here are some useful links:####
 
