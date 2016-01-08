@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unreal Engine 4 - Basic understanding"
+title:  "Unreal Engine 4 - Basic map creation"
 date:   2015-08-25 18:28:36
 categories: jekyll update
 tags:
@@ -10,13 +10,13 @@ tags:
 
 <img src="{{ site.baseurl }}/assets/portfolio/unrealoverview/11.png">
 
-To get a general understanding of Unreal Engine 4 (UE4) I decided to create a battleground map with some basic game mechanics. I used as many tools in the editor as possible to get a good basic understanding of what UE4 can achieve.
+To get a general understanding of Unreal Engine 4 I decided to create a battleground map with some basic game mechanics. I used as many tools in the editor as possible to get a good understanding of what UE4 offers and what it can achieve.
 
 The final result ended up being a battleground map where you control a spider character that aligns to the surface. You can also jump into the spinning cubes to make them explode.
 
-This project aslo made it possible for me to make some basic 3D models and animations with Blender, which can be seen throughout the map.
+This project aslo made it possible for me to create some basic 3D models and animations with Blender, which can be seen throughout the map.
 
-#### The UE4 blueprint system was used for: ####
+#### The Blueprint System was used for: ####
 
 - Implementing the materials.
 - Controlling the player (Keyboard and mouse).
@@ -24,9 +24,11 @@ This project aslo made it possible for me to make some basic 3D models and anima
 - Logic for exploding cubes.
 - Rotating spheres.
 
-#### The C++ scripts were used for:#### 
+#### The C++ Scripts were used for:#### 
 
 - Aligning the character with the ground.
+
+The blueprint system is basically a node-graph where you can drag lines between different boxes. They allow non-programmers to create features on their own, a kind of visual scripting. This is primarily for designers (even though programmers might find it quicker for smaller tasks as well), but it is a good middle ground for letting designers and programmers co-operate. The C++ scripts are the more traditional way of coding the behavior.
 
 ### Map overview - High resolution images at the bottom ###
 
@@ -64,7 +66,7 @@ This project aslo made it possible for me to make some basic 3D models and anima
 
 #### Implementation ####
 
-This project was implemented using Unreal Engine 4. The blueprint system as well ass C++ scripts has been used. Blender was used when creating the 3D models and animations.
+This project was implemented using Unreal Engine 4. The Blueprint System as well as C++ Scripts has been used. Blender was used for creating the 3D models and animations.
 
 #### Images ####
 
