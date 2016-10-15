@@ -237,11 +237,6 @@
     }
 }
 
-.sidebar {
-    float: right;
-    max-width: 240px;
-}
-
 .excerpt  {
     width: 300px;
     height: auto;
@@ -272,6 +267,19 @@
     display: inline-block;
     font-size: 16px;
     border-radius: 8px;
+}
+
+.archive {
+
+    h1 {
+        font-size: 42px;
+    }
+
+
+    h3 {
+        margin: 0;
+        padding: 0;
+    }
 }
 
 
