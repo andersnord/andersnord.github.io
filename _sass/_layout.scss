@@ -8,6 +8,7 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    background: $grey-color-light;
 }
 
 .site-title {
@@ -94,6 +95,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background: $grey-color-light;
 }
 
 .footer-heading {
@@ -245,31 +247,31 @@
     height: auto;
 }
 
-.dropdownlist { 
-    margin: 2px;
-    padding: 2px; 
-    //border: 2px solid grey; 
-    width: 200px;
+.pagination {
+    padding: 10px;
+}
 
-    h3 {
-        -webkit-border-radius: 5px;
-        -moz-border-radius: 5px;
-        border-radius: 5px;
-        display: inline;
-        background: #e0e0e0;
-        margin: 0px;
-        padding: 2px;
-    }
+.page_number {
+    color: black;
 }
-.dropdownlist > ul { display: none; }
-.dropdownlist:hover > ul {
-    padding: 2px;
-    display: block; background: #f9f9f9; border-top: 1px;
-    border-radius: 5px;
 
+.next {
+    color: white;
 }
-.dropdownlist:hover > ul > li:hover > a { 
-    color: black; 
-    background: f2f2f2;
+
+.previous {
+    color: white;
 }
+
+.button {
+    background-color: $grey-color-light; /* Green */
+    border: none;
+    padding: 5px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
 

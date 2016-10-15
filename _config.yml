@@ -11,6 +11,11 @@ github_username:  andersnord
 linkedin_username: andersnord
 
 # Build settings
+#exclude: ["Gemfile", "Gemfile.lock"]
 markdown: kramdown
 highlighter: pygments
 encoding: utf-8
+paginate: 5
+
+# Gems
+gems: [jekyll-paginate]
