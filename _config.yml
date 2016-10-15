@@ -19,3 +19,6 @@ paginate: 5
 
 # Gems
 gems: [jekyll-paginate]
+
+# Google services
+google_analytics: UA-85727178-1
