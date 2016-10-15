@@ -53,12 +53,11 @@ The game was implemented in Unity as a proof of concept. It took about 6 hours.
 			<img src="{{ site.baseurl }}/assets/portfolio/monsterpounder/1.png"/>
 		</a>
 		</li>
-		  	<li><a href="{{ site.baseurl }}/assets/portfolio/monsterpounder/4.png">
+	  	<li><a href="{{ site.baseurl }}/assets/portfolio/monsterpounder/4.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/monsterpounder/4.png"/>
 		</a>
 		</li>
-		</li>
-		  	<li><a href="{{ site.baseurl }}/assets/portfolio/monsterpounder/3.png">
+	  	<li><a href="{{ site.baseurl }}/assets/portfolio/monsterpounder/3.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/monsterpounder/3.png"/>
 		</a>
 		</li>

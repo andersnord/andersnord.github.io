@@ -101,7 +101,6 @@ This project was implemented using Unreal Engine 4. The Blueprint System as well
 			<img src="{{ site.baseurl }}/assets/portfolio/unrealoverview/2.png"/>
 		</a>
 		</li>
-		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/unrealoverview/3.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/unrealoverview/3.png"/>
 		</a>
@@ -116,7 +115,6 @@ This project was implemented using Unreal Engine 4. The Blueprint System as well
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/unrealoverview/5.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/unrealoverview/5.png"/>
 		</a>
-		</li>
 		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/unrealoverview/6.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/unrealoverview/6.png"/>
@@ -133,7 +131,6 @@ This project was implemented using Unreal Engine 4. The Blueprint System as well
 			<img src="{{ site.baseurl }}/assets/portfolio/unrealoverview/8.png"/>
 		</a>
 		</li>
-		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/unrealoverview/9.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/unrealoverview/9.png"/>
 		</a>
@@ -149,7 +146,6 @@ This project was implemented using Unreal Engine 4. The Blueprint System as well
 			<img src="{{ site.baseurl }}/assets/portfolio/unrealoverview/11.png"/>
 		</a>
 		</li>
-		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/unrealoverview/12.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/unrealoverview/12.png"/>
 		</a>
@@ -164,7 +160,6 @@ This project was implemented using Unreal Engine 4. The Blueprint System as well
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/unrealoverview/14.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/unrealoverview/14.png"/>
 		</a>
-		</li>
 		</li>
 	</ul>
 </div>

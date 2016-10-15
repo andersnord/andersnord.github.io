@@ -10,7 +10,7 @@ tags:
 - C++
 ---
 
-<img src="{{ site.baseurl }}/assets/portfolio/raytracer/1.bmp" height="230" width="230" /> 
+<img src="{{ site.baseurl }}/assets/portfolio/raytracer/1.bmp" width="50%"/> 
 
 The goal with the project was to create a Whitted ray tracer.
 
@@ -47,7 +47,6 @@ The programming language used to write the ray tracer was C++. When running the 
 			<img src="{{ site.baseurl }}/assets/portfolio/raytracer/2.bmp"/>
 		</a>
 		</li>
-		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/raytracer/3.bmp">
 			<img src="{{ site.baseurl }}/assets/portfolio/raytracer/3.bmp"/>
 		</a>
@@ -62,7 +61,6 @@ The programming language used to write the ray tracer was C++. When running the 
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/raytracer/5.bmp">
 			<img src="{{ site.baseurl }}/assets/portfolio/raytracer/5.bmp"/>
 		</a>
-		</li>
 		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/raytracer/6.bmp">
 			<img src="{{ site.baseurl }}/assets/portfolio/raytracer/6.bmp"/>

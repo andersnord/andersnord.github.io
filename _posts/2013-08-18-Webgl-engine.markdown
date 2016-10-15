@@ -11,7 +11,7 @@ tags:
 - webgl
 ---
 
-<iframe src="http://player.vimeo.com/video/75006611?color=4B0082" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="http://player.vimeo.com/video/75006611?color=4B0082" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 The goal with the project was to implement a simplistic game in WebGL. It somewhat became more of a simple game-engine.
 
@@ -54,7 +54,6 @@ The game engine was implemented in WebGL using shaders. WebGL communicates with 
 			<img src="{{ site.baseurl }}/assets/portfolio/webglengine/depthtexture.png"/>
 		</a>
 		</li>
-		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/webglengine/pixel_shading.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/webglengine/pixel_shading.png"/>
 		</a>
@@ -69,7 +68,6 @@ The game engine was implemented in WebGL using shaders. WebGL communicates with 
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/webglengine/lightshadow.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/webglengine/lightshadow.png"/>
 		</a>
-		</li>
 		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/webglengine/w_perspective.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/webglengine/w_perspective.png"/>

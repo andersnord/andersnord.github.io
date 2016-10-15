@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-<ul>
+<ul class="post-list">
 	{% for post in site.tags.portfolio %}
 	 	<li>
 	 		<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>

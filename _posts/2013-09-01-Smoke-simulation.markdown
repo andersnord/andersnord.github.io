@@ -11,7 +11,7 @@ tags:
 - GLSL
 ---
 
-<iframe src="http://player.vimeo.com/video/75007723?color=4B0082" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="http://player.vimeo.com/video/75007723?color=4B0082" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 This fluid simulation efficiently implements a method for simulating smoke entirely on the GPU. The model is unconditionally stable and produces complex fluid-like flows.
 
@@ -48,7 +48,6 @@ This project has been implemented in programming language C/C++ on the GPU. This
 		  		<img src="{{ site.baseurl }}/assets/portfolio/smoke/fField_3.png">
 		</a>
 		</li>
-		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/smoke/blacksmoke.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/smoke/blacksmoke.png"/>
 		</a>
@@ -63,7 +62,6 @@ This project has been implemented in programming language C/C++ on the GPU. This
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/smoke/dField_3.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/smoke/dField_3.png"/>
 		</a>
-		</li>
 		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/smoke/pField_31.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/smoke/pField_31.png"/>

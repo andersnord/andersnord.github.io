@@ -11,7 +11,7 @@ tags:
 - WPF
 ---
 
-<img src="{{ site.baseurl }}/assets/portfolio/pdt/Frostbite_Engine_logo.png" max-height="200px"/> 
+<img src="{{ site.baseurl }}/assets/portfolio/pdt/Frostbite_Engine_logo.png" /> 
 
 I did my master thesis at Frostbite - Electronic Arts on the subject of procedural world generation. The final result was a procedural distribution tool that used actual placements of objects in the editor as in-data. This provided the artist with an unmatched visual feel for calibrating the tools properties and settings. Please see the report for more details. 
 
@@ -54,7 +54,6 @@ The tool was implemented using C# and WPF. Please see the report for more detail
 			<img src="{{ site.baseurl }}/assets/portfolio/pdt/forest_Result3.png"/>
 		</a>
 		</li>
-		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/pdt/GUI_1.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/pdt/GUI_1.png"/>
 		</a>
@@ -70,7 +69,6 @@ The tool was implemented using C# and WPF. Please see the report for more detail
 			<img src="{{ site.baseurl }}/assets/portfolio/pdt/palm_result.png"/>
 		</a>
 		</li>
-		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/pdt/wf2.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/pdt/wf2.png"/>
 		</a>
@@ -85,7 +83,6 @@ The tool was implemented using C# and WPF. Please see the report for more detail
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/pdt/result.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/pdt/result.png"/>
 		</a>
-		</li>
 		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/pdt/SA_treestones2.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/pdt/SA_treestones2.png"/>

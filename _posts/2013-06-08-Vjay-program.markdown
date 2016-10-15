@@ -11,7 +11,7 @@ tags:
 - GLSL
 ---
 
-<iframe src="http://player.vimeo.com/video/75007341?color=4B0082" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="http://player.vimeo.com/video/75007341?color=4B0082" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 
 The goal with the project was to create a program for Djs that lets them be able to manage the visual show simultaneously to DJaying. The main idea is that the person DJaying shall be able to interact with the visual show whenever it is desired, and when it is not, it should act on its own based on conditions set earlier by the DJay.
@@ -49,7 +49,6 @@ This project has been implemented in programming language C/C++. API´s and libr
 			<img src="{{ site.baseurl }}/assets/portfolio/vjay/blur_stars_sphere_circling.png"/>
 		</a>
 		</li>
-		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/vjay/blur_stars_sphere_circling2.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/vjay/blur_stars_sphere_circling2.png"/>
 		</a>
@@ -64,7 +63,6 @@ This project has been implemented in programming language C/C++. API´s and libr
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/vjay/blur_stars_spherefan.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/vjay/blur_stars_spherefan.png"/>
 		</a>
-		</li>
 		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/vjay/blur_stars_spherefan_eq.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/vjay/blur_stars_spherefan_eq.png"/>
@@ -81,7 +79,6 @@ This project has been implemented in programming language C/C++. API´s and libr
 			<img src="{{ site.baseurl }}/assets/portfolio/vjay/only_sphere.png"/>
 		</a>
 		</li>
-		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/vjay/only_spherefan.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/vjay/only_spherefan.png"/>
 		</a>
@@ -96,7 +93,6 @@ This project has been implemented in programming language C/C++. API´s and libr
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/vjay/zbuffer_spherefan.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/vjay/zbuffer_spherefan.png"/>
 		</a>
-		</li>
 		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/vjay/zbuffer_starts_sphere.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/vjay/zbuffer_starts_sphere.png"/>

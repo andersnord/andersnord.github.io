@@ -10,7 +10,7 @@ tags:
 - Actionscript
 ---
 
-<iframe src="http://player.vimeo.com/video/79030898?color=4B0082" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="http://player.vimeo.com/video/79030898?color=4B0082" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 The goal was to create a game for the iPhone with focus on the player. What play mechanics works well on a phone? How can one learn a game without tutorials, only by playing it?
 
@@ -114,5 +114,6 @@ The game has been implemented in the programming language ActionScript 3. To uti
 			<img src="{{ site.baseurl }}/assets/portfolio/bftp/13.png"/>
 		</a>
 		</li>
-	</ul> 
+		</ul> 
+	</ul>
 </div>

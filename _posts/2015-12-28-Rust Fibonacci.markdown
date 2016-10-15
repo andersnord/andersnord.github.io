@@ -8,7 +8,7 @@ tags:
 - GLSL
 ---
 
-<img src="{{ site.baseurl }}/assets/portfolio/rustfibonacci/rust-logo.svg" height="200px"/>
+<img src="{{ site.baseurl }}/assets/portfolio/rustfibonacci/rust-logo.svg"/>
 
 I have looked into the relatively new programming language Rust. While doing so I made a graphical application that uses the fibonacci sequence to draw lines. Please see the **[source code][RustFibonacciGit]** for implementation details, but think of the code as quick and dirty since I just wanted to try out the language while doing a fun small project.
 
@@ -72,7 +72,6 @@ Visual Code has added Rust to their supported languages and you are also able to
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/rustfibonacci/fibonacci2.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/rustfibonacci/fibonacci2.png"/>
 		</a>
-		</li>
 		</li>
 		  	<li><a href="{{ site.baseurl }}/assets/portfolio/rustfibonacci/vs_code.png">
 			<img src="{{ site.baseurl }}/assets/portfolio/rustfibonacci/vs_code.png"/>
