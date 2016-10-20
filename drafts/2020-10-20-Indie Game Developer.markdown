@@ -1,0 +1,110 @@
+---
+layout: post
+title:  "Game development - Introduction"
+date:   2016-10-20 10:28:36
+categories: jekyll update
+tags:
+- Game Development
+---
+
+Hi, and welcome to a series about Indie Game Development. These posts will containt everything that occurrs when developing an indie game as a single person.
+
+So this first post will be an introduction to what kind of game I am developing and some information around it. 
+
+I have been working on this game during weekends since the beginning of 2015. Since three weeks back I have started working 60% on it while working 40% at my regular job. This means 3 days a week which hopefully is enough to finish this project in a reasonable time frame. This is something I will talk about in a later post (scoping).
+
+## About the game ##
+The game is a 2D platformer with a mix between straight forward twitch reflex platforming and more casual super mario bros platforming. The goal for each level is to collect enough energy for your spaceship to be able to travel to next level. This energy hurts the main character but is a necessary sacrifice. 
+
+## Unique selling points ##
+- The game is a 2D platformer but set in a 3D graphical environment.
+- The collected energy follows the player and can be used for physical interactions.
+- It is a mix between a platformer and a puzzle game.
+
+## Plans for things to include in the game ##
+-
+
+- Vad det är för typ av spel.
+- Vad spelet handlar om.
+- Vad göt spelet unikt.
+- Vad som jag planerat att ha med framöver.
+
+<img src="{{ site.baseurl }}/assets/portfolio/rustfibonacci/rust-logo.svg"/>
+
+I have looked into the relatively new programming language Rust. While doing so I made a graphical application that uses the fibonacci sequence to draw lines. Please see the **[source code][RustFibonacciGit]** for implementation details, but think of the code as quick and dirty since I just wanted to try out the language while doing a fun small project.
+
+<img src="{{ site.baseurl }}/assets/portfolio/rustfibonacci/fibonacci.gif" height="200px">
+
+I rather like the ideas behind Rust. These quotes from their book describes it pretty well:
+
+> Rust is a systems programming language focused on three goals: safety, speed, and concurrency. It maintains these goals without having a garbage collector... 
+
+> ...Rust improves on current languages targeting this space by having a number of compile-time safety checks that produce no runtime overhead, while eliminating all data races.
+
+The idea of rust seems to be trying to feel lika a high level language like c#, though faster and safer. Rust also has a tool called Cargo which is used for building the code, downloading the dependencies the code needs, and building those dependencies. 
+
+**[Rust 1.0][Rust1]** was released the 15th of May 2015 so it is a relatively new language. This was most noticable when trying to get the open source graphics libraries to work on Windows. I found Glium which worked directly out of the box and was a OpenGL wrapper that did what I needed. Rust has a few open source projects for graphics engines as well.
+
+Visual Code has added Rust to their supported languages and you are also able to run the compiler from within the editor which is nice. See the Visual Code link below for instructions.
+
+
+
+####Here are some useful links:####
+
+**[Introduction and book for Rust][RustStart]**
+
+**[Glium - Rust OpenGL wrapper][Glium]**
+
+**[Using Visual Studio Code with Rust][VSStart]**
+
+**[Rust Google Tech Talks][RustGoogleTechTalks]**
+
+**[Rust IDE support][RustIDEs]**
+
+#### Images ####
+
+<style>
+	ul#menu li {
+		float: left;
+	    display:inline;
+	    margin: 10px 10px 0 0;
+	}
+	ul#menu {
+		margin: 0 0 0 0;
+	}
+	div.img li {
+		height: 230px;
+		width: 230px;
+		overflow: hidden;
+	}
+
+	div.img img {
+		max-height: 100%;
+		max-width: 100%;
+	}
+</style>
+
+<div class="img">
+	<ul id="menu">
+		<li><a href="{{ site.baseurl }}/assets/portfolio/rustfibonacci/fibonacci1.png">
+			<img src="{{ site.baseurl }}/assets/portfolio/rustfibonacci/fibonacci1.png"/>
+		</a>
+		</li>
+		  	<li><a href="{{ site.baseurl }}/assets/portfolio/rustfibonacci/fibonacci2.png">
+			<img src="{{ site.baseurl }}/assets/portfolio/rustfibonacci/fibonacci2.png"/>
+		</a>
+		</li>
+		  	<li><a href="{{ site.baseurl }}/assets/portfolio/rustfibonacci/vs_code.png">
+			<img src="{{ site.baseurl }}/assets/portfolio/rustfibonacci/vs_code.png"/>
+		</a>
+		</li>
+	</ul>
+</div>
+
+[RustStart]:      http://doc.rust-lang.org/book/README.html
+[Glium]:      https://github.com/tomaka/glium
+[VSStart]:      https://mobiarch.wordpress.com/2015/06/16/rust-using-visual-studio-code/
+[RustGoogleTechTalks]:      https://www.youtube.com/watch?v=d1uraoHM8Gg
+[RustIDEs]:      https://www.rust-lang.org/ides.html
+[RustFibonacciGit]:      https://github.com/andersnord/rust_fibonacci
+[Rust1]:		http://blog.rust-lang.org/2015/05/15/Rust-1.0.html
