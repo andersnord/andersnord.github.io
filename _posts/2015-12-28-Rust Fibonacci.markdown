@@ -28,7 +28,7 @@ Visual Code has added Rust to their supported languages and you are also able to
 
 
 
-####Here are some useful links:####
+#### Here are some useful links: ####
 
 **[Introduction and book for Rust][RustStart]**
 
