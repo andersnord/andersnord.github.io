@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Archive
-permalink: /archive/
+title: Tags
+permalink: /tags/
 ---
 
-<div class="archive">
-  <h1 class="post-title">Archive</h1>
+<div class="tags">
+  <h1 class="post-title">Tags</h1>
 
   <!--<ul class="tags">
     {% for tag in site.tags %}
