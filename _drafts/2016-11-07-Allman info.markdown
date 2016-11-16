@@ -1,11 +1,40 @@
 ---
 layout: post
-title:  "Game development - Introduction"
-date:   2016-10-26 10:28:36
+title:  "Game development - Teaching the player - Part 1: Input"
+date:   2016-11-07 10:28:36
 categories: jekyll update
 tags:
 - Game Development
 ---
+
+So to the inital input. The control scheme was:
+- Double jump
+- Shooting right and left
+- Possible to double jump very high due to adding force.
+- Dying - Colors on player show health (dead space).
+- Jumping higher by holding down jump-button
+- Super hard to control in air (and on ground) - From playing now - Irritating dying each time.
+- Added Visual feedback from dying(blood), from explosion, Jumping, Energies teleporting. Holding down jump.
+- Added Color for different player states.
+- Digitala hopp. Och Run gör att du hoppas högre. (2 Digitala hopp.)
+- Digitalt hopp + analogt (SMB)
+- 0 friktion när man sprang.
+
+
+- Added rolling - Possible to climb and does not have to jump.
+
+# Changed #
+- From having lives -> Die instantly -> Cannot get killed. -- Frustration and complexity.
+
+# Removed first #
+- Double jump
+- Added speed button.
+
+
+- Controls and how they were prototyped from first version.
+
+
+
 
 <img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/1_Introduction/header.png"/>
 
