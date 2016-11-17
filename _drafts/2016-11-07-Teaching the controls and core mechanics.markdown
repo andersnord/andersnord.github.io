@@ -1,85 +1,11 @@
 ---
 layout: post
 title:  "Game development - Teaching the player - Part 1: Input"
-date:   2016-11-07 10:28:36
+date:   2016-11-17 09:28:36
 categories: jekyll update
 tags:
 - Game Development
 ---
-
-- Discovering the controls and core mechanics
-- left, right
-- jump
-- walljump
-- Energy cubes
-
-För och nackdelar. 
-Hur jag kom fram till att behålla walljump och att ändra kuberna från att göra inget till att ändra på protagonisten.
-
-This post will try to explain the process of discovering the controls and core mechanics. I wanted to divide them into separate posts, but since they are so tightly coupled it does most sense to explain them together. 
-
-# Introduction #
-
-I had some initial thoughts about the controls and how they were supposed to feel. I wanted them to be very responsive and predictable. The player should not have to worry about stepping over a ledge because of slippery controls. Rather, they should be able to focus on the level and how to traverse it in the best possible way.
-
-## Controls ##
-
-# Inital controls #
-In the initial version it was possible to move left, right and jump ( analog ). It was then possible to jump heigher by holding the jump button ( analaog ) and run faster by holding the run button ( digital ). It was also possible to walljump by moving the protagonist against the wall and jump.
-
-* GIF showing text above *
-
-# Final controls #
-In the final version it is possible to move left, right and jump ( digital ). It is no longer possible to jump different heights or run faster by holding any button. Instead the energy cubes ( core mechanic, see below ) can alter the speed an jump height of the protagonist. 
-
-* GIF showing text above *
-
-## Core Mechanics ##
-
-# Inital mechanics #
-- Energy cubes ( without ant altering powers )
-- Walljump
-- Returning to ship.
-
-# Final mechanics #
-- Energy cubes ( Alternated )
-- Walljumps ( Stayed the same )
-- returning with cube to ship ( Removed ) - backtracking.
-
-- according to keep it simple. Rather cut away stuff.
-
-## The path down discovery road ##
-So why did I make these changes? And how did I motivate them? (Rätt ordval?) 
-First of all, I started testing early and often. With a wide range or personalities and type of gamer. By doing so I could quickly recognize the obvoius flaws and unnecessary things in the game. I will try to categorize them below.
-
-# Energy cubes vs speed and height #
-
-# Returning to the ship #
-
-# 
-
-
-
-
-Förklara hur jag gick till väga när jag valde kontrollerna.
-
-- Testade och såg reaktionerna.
-- Gillade ej backtracking.
-- 
-
-
-
-# Final #
-
-Some early prototype controls / mechanics:
-
-- Show GIF with shooting and double jump -
-
-
-
-
-
-
 
 ## Teaching the controls and core mechanics ##
 - Level design
@@ -100,9 +26,8 @@ I created a prototype with the controls that I liked and then let people play it
 
 ----
 
-
-
-
+-----------
+## OLD ##
 
 Att ha med som GIF:
 - TLP Ver 2: Visa hur mycket man blev påverkad av kuberna. Dock mer för energy-cubes. Så ej denna versionen.
@@ -196,10 +121,6 @@ So to the inital input. The control scheme was:
 
 - Controls and how they were prototyped from first version.
 Hur jag levt efter quoten "Less is more"-ish.
-
-
-
-- 
 
 
 
