@@ -8,7 +8,9 @@ tags:
 - Unity
 ---
 
-<img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/1_Introduction/header.png"/>
+<!--<object data="{{ site.baseurl }}/assets/GameDevelopmentPosts/2_Controls/controller.svg" type="image/svg+xml">-->
+  <img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/2_Controls/controller-640.png" />
+<!--</object>-->
 
 This post will try to explain the process of discovering the controls. I have divided controls and core mechanics into separate posts even though they are some what coupled. This is because I want to keep the posts short and focused.
 
@@ -22,7 +24,7 @@ The controls was the first thing I developed. It tends to take a lot of time. De
 In the initial version it was possible to move left, right and jump. It was then possible to jump higher by holding down the jump button (analog) and run faster by holding down the run button (digital). Further it was possible to control the protagonist in the air.
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/1_Introduction/JumpEnergy.gif"/>
+  <img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/2_Controls/InitialControls.gif"/>
   <figcaption>Showing off initial controls.</figcaption>
 </figure>
 
@@ -30,7 +32,7 @@ In the initial version it was possible to move left, right and jump. It was then
 In the final version it is possible to move left, right and jump (digital). It is no longer possible to jump heigher or run faster by holding any button. Instead the energy cubes (core mechanic, see previous post, or next one) can alter the speed and jump hight of the protagonist. Air control still exists.
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/1_Introduction/JumpEnergy.gif"/>
+  <img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/2_Controls/FinalControls.gif"/>
   <figcaption>Showing off final controls.</figcaption>
 </figure>
 
@@ -49,33 +51,14 @@ Generally people had a hard time discovering and understanding how pressing jump
 - Air control: The acceleration curve was changed so that the player felt more in control. In the initial version, it was hard to make smalled changes without overshooting the target.
 
 # Final #
-I hope it was possible to follow along. I had to re-write it a couple of times to make it short and concrete. Until next time, here are some early prototype-controls:
+The currently possible input sources are:
+- Controller - Joystick, D-pad and A for jumping
+- Keyboard - WASD, arrow keys and space or W/Up arrow for jumping
+- Touch - This is the least tested one, and currently only used for being able to show the game easily on the phone. The screen is divided into three areas. Left -> move left, Right -> move left, Middle -> jump.
+
+I hope it was possible to follow along. I had to re-write it a couple of times in trying to make it short and concrete. Until next time, here are some early prototype-controls:
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/1_Introduction/JumpEnergy.gif"/>
-  <figcaption>Protagonist double jumping.</figcaption>
+  <img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/2_Controls/DounbleJumpShooting.gif"/>
+  <figcaption>Protagonist double jumping and shooting enemies.</figcaption>
 </figure>
-
-<figure>
-  <img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/1_Introduction/JumpEnergy.gif"/>
-  <figcaption>Protagonist shooting enemies.</figcaption>
-</figure>
-
-# Early game screenshots #
-
-<div class="postimages">
-	<ul>
-		<li><a href="{{ site.baseurl }}/assets/GameDevelopmentPosts/1_Introduction/1.png">
-			<img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/1_Introduction/1.png"/>
-		</a>
-		</li>
-		  	<li><a href="{{ site.baseurl }}/assets/GameDevelopmentPosts/1_Introduction/2.png">
-			<img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/1_Introduction/2.png"/>
-		</a>
-		</li>
-		  	<li><a href="{{ site.baseurl }}/assets/GameDevelopmentPosts/1_Introduction/3.png">
-			<img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/1_Introduction/3.png"/>
-		</a>
-		</li>
-	</ul>
-</div>
