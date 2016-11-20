@@ -67,7 +67,7 @@ People found this interaction fun and they all seemed to graps the interaction q
 
 Some early prototype mechanics:
 
-- Show GIF with shooting and double jump -
+- Show GIF with first prototypes. Different effects from cubes -
 
 # Early game screenshots #
 
