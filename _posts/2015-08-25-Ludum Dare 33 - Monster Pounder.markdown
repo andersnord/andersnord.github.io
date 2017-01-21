@@ -7,7 +7,9 @@ tags:
 - Unity
 ---
 
-<img src="{{ site.baseurl }}/assets/portfolio/monsterpounder/monster2.gif"/>
+<a href="{{ page.url }}">
+	<img src="{{ site.baseurl }}/assets/portfolio/monsterpounder/monster2.gif"/>
+</a>
 
 Monster Pounder is a game that I made together with [Zack Wood][ZackWebPage] for the **[Ludum Dare 33][LudumDare]** Game Jam, where the theme was "You are the monster". [Zack Wood][ZackWebPage] created the lovely running animation whereas I programmed and added everything inside Unity. Different sounds are played when the blocks are activated and when the orange guys are hit.
 

@@ -8,7 +8,9 @@ tags:
 - Blender
 ---
 
-<img src="{{ site.baseurl }}/assets/portfolio/unrealoverview/11.png">
+<a href="{{ page.url }}">
+	<img src="{{ site.baseurl }}/assets/portfolio/unrealoverview/11.png">
+</a>
 
 To get a general understanding of Unreal Engine 4 I decided to create a battleground map with some basic game mechanics. I used as many tools in the editor as possible to get a good understanding of what UE4 offers and what it can achieve.
 

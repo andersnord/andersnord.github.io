@@ -9,7 +9,9 @@ tags:
 ---
 
 <!--<object data="{{ site.baseurl }}/assets/GameDevelopmentPosts/2_Controls/controller.svg" type="image/svg+xml">-->
+<a href="{{ page.url }}">
   <img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/2_Controls/controller-640.png" />
+</a>
 <!--</object>-->
 
 This post will try to explain the process of discovering the controls. I have divided controls and core mechanics into separate posts even though they are somewhat coupled. This is because I want to keep the posts short and focused.

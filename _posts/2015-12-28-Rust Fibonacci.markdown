@@ -8,7 +8,9 @@ tags:
 - GLSL
 ---
 
-<img src="{{ site.baseurl }}/assets/portfolio/rustfibonacci/rust-logo.svg"/>
+<a href="{{ page.url }}">
+	<img src="{{ site.baseurl }}/assets/portfolio/rustfibonacci/rust-logo.svg"/>
+</a>
 
 I have looked into the relatively new programming language Rust. While doing so I made a graphical application that uses the fibonacci sequence to draw lines. Please see the **[source code][RustFibonacciGit]** for implementation details, but think of the code as quick and dirty since I just wanted to try out the language while doing a fun small project.
 

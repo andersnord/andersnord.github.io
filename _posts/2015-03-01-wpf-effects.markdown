@@ -9,7 +9,9 @@ tags:
 - C#
 ---
 
-<img src="{{ site.baseurl }}/assets/portfolio/wpfeffect/all4.png"/> 
+<a href="{{ page.url }}">
+	<img src="{{ site.baseurl }}/assets/portfolio/wpfeffect/all4.png"/> 
+</a>
 
 In this post I will be talking shortly about using pixel shaders written in HLSL for WPF. These can be used to create more advanced visual effects. In my example I have created some procedural noise shaders, such as perlin noise and voronoi noise 2D and 3D. Notice that they will animate when clicked. **[Source code here][GitHubLink]**.
 

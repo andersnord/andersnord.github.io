@@ -11,7 +11,9 @@ tags:
 - WPF
 ---
 
-<img src="{{ site.baseurl }}/assets/portfolio/pdt/Frostbite_Engine_logo.png" /> 
+<a href="{{ page.url }}">
+	<img src="{{ site.baseurl }}/assets/portfolio/pdt/Frostbite_Engine_logo.png" /> 
+</a>
 
 I did my master thesis at Frostbite - Electronic Arts on the subject of procedural world generation. The final result was a procedural distribution tool that used actual placements of objects in the editor as in-data. This provided the artist with an unmatched visual feel for calibrating the tools properties and settings. Please see the report for more details. 
 

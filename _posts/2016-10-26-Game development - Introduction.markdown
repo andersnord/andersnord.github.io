@@ -8,7 +8,9 @@ tags:
 - Unity
 ---
 
-<img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/1_Introduction/header.png"/>
+<a href="{{ page.url }}">
+	<img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/1_Introduction/header.png"/>
+</a>
 
 Hello, and welcome to a series about Indie Game Development. These posts will contain everything that occurs when developing an indie game as a single person.
 

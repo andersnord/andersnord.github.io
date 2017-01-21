@@ -10,7 +10,9 @@ tags:
 - C++
 ---
 
-<img src="{{ site.baseurl }}/assets/portfolio/raytracer/1.bmp" width="50%"/> 
+<a href="{{ page.url }}">
+	<img src="{{ site.baseurl }}/assets/portfolio/raytracer/1.bmp" width="50%"/> 
+</a>
 
 The goal with the project was to create a Whitted ray tracer.
 
