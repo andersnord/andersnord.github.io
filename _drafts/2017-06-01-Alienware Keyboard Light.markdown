@@ -3,6 +3,7 @@ layout: post
 title:  "Alienware - Keyboard Light"
 date:   2017-02-01 09:28:36
 categories: jekyll update
+avatarurl: /assets/portfolio/tobii/alienware/alienware_logo.png
 tags:
 - portfolio
 - C#
