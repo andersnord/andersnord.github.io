@@ -16,7 +16,7 @@ tags:
 
 Plantin Time is a puzzle game based around how tropism works and how plant genes are affected by different types of soil. You use this knowledge when choosing which plant to grow. Your goal is to reach the golden tiles.
 
-It was developed for **[Legends Of Learning][LoL]** to be used as an educational game in the American school system.
+It was developed for **[Legends Of Learning][LoL]** to be used as an educational game in the American school system. The game is aimed towards kids in 6-8th grade.
 
 The development time was 2 weeks and I developed it together with [Zack Wood][ZackWebPage] who made the art. The game incorporates sound and music as well.
 

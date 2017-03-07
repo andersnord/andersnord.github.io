@@ -11,7 +11,7 @@ tags:
 ---
 
 <a href="{{ page.url }}">
-  <img src="{{ site.baseurl }}/assets/portfolio/tobii/predator/logo.png" width="50%"/>
+  <img src="{{ site.baseurl }}/assets/portfolio/tobii/predator/logo.png"/>
 </a>
 
 When I was working at **[Tobii][TobiiTech]** I was one of the main developers for an **[Acer Predator][Predator]** specific interactive experience. It was included in predator customer bundles and also used at **IFA Berlin 2016** to promote predators new computers and curved screens.
@@ -28,12 +28,12 @@ We intergrated the Tobii specific eyetracking gaming features into a demo made i
 # The experience #
 <figure>
   <img src="{{ site.baseurl }}/assets/portfolio/tobii/predator/InfiniteScreen.gif"/>
-  <figcaption> Rotate camera by looking. </figcaption>
+  <figcaption> Rotate camera by looking. The circle represents where the users is looking.</figcaption>
 </figure>
 
 <figure>
   <img src="{{ site.baseurl }}/assets/portfolio/tobii/predator/NaturalTargeting.gif"/>
-  <figcaption> Aim at the aliens by looking at them. Press space to shoot. </figcaption>
+  <figcaption> Aim at the aliens by looking at them and press space to shoot. The circle represents where the users is looking.</figcaption>
 </figure>
 
 [//]: # Links to youtubers unboxing #

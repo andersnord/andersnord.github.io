@@ -13,14 +13,14 @@ tags:
   <img src="{{ site.baseurl }}/assets/portfolio/tobii/intro/logo_tobii.png" />
 </a>
 
-When I was working at **[Tobii][TobiiTech]** I was the main developer for the first interactive experience that greets the user. This application explains how eyetracking works and what the main gaming and desktop features were. It was divided into two applications. One 3D experience where you went through space shooting asteroids with your eyes. And one overview that explains and shows the dekstop features.
+When I was working at **[Tobii][TobiiTech]** I was the main developer for the interactive tutorial experience that greeted the user after the first installation. The application explained how eyetracking works and what the main gaming and desktop features were. It was divided into two applications. One 3D experience where you go through space shooting asteroids with your eyes. And one overview that explains and shows the dekstop features in an interactive way.
 
 <figure>
   <img src="{{ site.baseurl }}/assets/portfolio/tobii/intro/Intro3.png" />
   <figcaption> Space experience. </figcaption>
 </figure>
 
-This application was also branded and used for our **Alienware** and **Acer Predator** Integrations.
+This application was also fully localized and branded for our **Alienware** and **Acer Predator** integrations.
 It was also used at **CES 2017** to promote tobii eyetracking. 
 
 # Implementation #
@@ -29,12 +29,12 @@ It was also used at **CES 2017** to promote tobii eyetracking.
 
 <figure>
   <img src="{{ site.baseurl }}/assets/portfolio/tobii/intro/IntroShooting.gif"/>
-  <figcaption> Space experience shooting asteroids. </figcaption>
+  <figcaption> Space experience shooting asteroids. The circle represents where the users is looking. </figcaption>
 </figure>
 
 <figure>
   <img src="{{ site.baseurl }}/assets/portfolio/tobii/intro/Overview.gif"/>
-  <figcaption> Overview explaining main features. </figcaption>
+  <figcaption> Overview explaining main features. The circle represents where the users is looking. </figcaption>
 </figure>
 
 # Images from project #
