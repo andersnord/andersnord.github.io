@@ -3,7 +3,7 @@ layout: post
 title:  "Procedural Distribution Tool"
 date:   2014-09-21 18:28:36
 categories: jekyll update
-avatarurl: /assets/portfolio/pdt/Frostbite_Engine_logo.png
+avatarurl: /assets/portfolio/pdt/Frostbite_Engine_logo2.png
 tags:
 - school
 - portfolio
@@ -12,7 +12,7 @@ tags:
 ---
 
 <a href="{{ page.url }}">
-	<img src="{{ site.baseurl }}/assets/portfolio/pdt/Frostbite_Engine_logo.png" /> 
+	<img src="{{ site.baseurl }}/assets/portfolio/pdt/Frostbite_Engine_logo2.png" width="50%"/> 
 </a>
 
 I did my master thesis at Frostbite - Electronic Arts on the subject of procedural world generation. The final result was a procedural distribution tool that used actual placements of objects in the editor as in-data. This provided the artist with an unmatched visual feel for calibrating the tools properties and settings. Please see the report for more details. 
