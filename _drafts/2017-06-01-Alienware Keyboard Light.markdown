@@ -1,19 +1,19 @@
 ---
 layout: post
 title:  "Alienware - Keyboard Light"
-date:   2017-02-01 09:28:36
+date:   2016-01-30 09:28:36
 categories: jekyll update
-avatarurl: /assets/portfolio/tobii/alienware/alienware_logo.png
+avatarurl: /assets/portfolio/tobii/alienware/alienware_logo_cut.png
 tags:
 - portfolio
 - C#
 ---
 
 <a href="{{ page.url }}">
-  <img src="{{ site.baseurl }}/assets/GameDevelopmentPosts/2_Controls/controller-640.png" />
+  <img src="{{ site.baseurl }}/assets/portfolio/tobii/alienware/alienware_logo_cut.png" />
 </a>
 
-When I was working at [Tobii][TobiiTech] I was the main developer for an [Alienware][Alienware] integration specific feature called keyboard light. What it did was letting you control their keyboard light feature with your eyes. So when looking at a certain region of your keyboard, it would light up. This saves energy as well as being conveinient when working in the dark for example. It is also a cool gimmick for gamers.
+When I was working at [Tobii][TobiiTech] I was the main developer for an [Alienware][Alienware] integration specific feature called keyboard light. What it did was letting you control their keyboard light feature with your eyes. So when looking at a certain region of your keyboard, it would light up. This saves energy as well as being conveinient when working in the dark. It is also a cool gimmick for gamers.
 
 We integrated the Tobii desktop software with their keyboard light API to be able to communicate between the different softwares.  
 
