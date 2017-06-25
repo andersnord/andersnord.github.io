@@ -9,6 +9,7 @@ url: "andersnord.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  andersnord
 linkedin_username: andersnord
+twitter_username: nord_anders
 
 # Build settings
 #exclude: ["Gemfile", "Gemfile.lock"]

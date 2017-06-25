@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Stugan accelerator program"
+date:   2017-06-24 10:28:36
+categories: jekyll update
+tags:
+- Game Development
+---
+
+<a href="{{ page.url }}">
+	<img src="{{ site.baseurl }}/assets/portfolio/stugan/logo.png"/>
+</a>
+
+I recently got accepted to [Stugan 2017][Stugan2017], an accelerator program for talented game developers with my game [The Lost Light of Sisu][TLLOS]. It will run from the 26th of june - 12th of august.
+
+I am super excited about this and cannot not wait to be a part of Stugan and meet all the talanted game developers.
+
+## [Stugan participants 2017][Stugan2017] ##
+
+## [DEMO][TLLOS] ##
+
+## [Developer log for The Lost Light of Sisu][Tigsource] ##
+
+[Stugan]: http://www.stugan.com/
+[Stugan2017]: http://www.stugan.com/stugan-2017aaa/
+[TLLOS]: https://andersnord.itch.io/the-lost-light-of-sisu
+[Tigsource]: https://forums.tigsource.com/index.php?topic=60261.0
