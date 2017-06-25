@@ -36,7 +36,7 @@ To collect all of the energy cubes, you need to use these level-temporary-abilit
 - Using physics to create interesting solutions and gameplay.
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/speed.png"/>
+  <img src="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/speed.PNG"/>
   <figcaption> In game screenshot from alpha demo 0.2.0. </figcaption>
 </figure>
 
@@ -51,18 +51,18 @@ I have a developer log on [Tigsource][Tigsource] where I post my latest updates 
 <div class="postimages">
 	<ul>
 		<li>
-			<a href="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/speed.png">
-			<img src="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/speed.png"/>
+			<a href="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/speed.PNG">
+			<img src="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/speed.PNG"/>
 		</a>
 		</li>
 		<li>
-			<a href="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/jump_swing.png">
-			<img src="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/jump_swing.png"/>
+			<a href="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/jump_swing.PNG">
+			<img src="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/jump_swing.PNG"/>
 		</a>
 		</li>
 		<li>
-			<a href="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/running.png">
-			<img src="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/running.png"/>
+			<a href="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/running.PNG">
+			<img src="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/running.PNG"/>
 		</a>
 		</li>
 	</ul>
