@@ -51,8 +51,8 @@ I have a developer log on [Tigsource][Tigsource] where I post my latest updates 
 <div class="postimages">
 	<ul>
 		<li>
-			<a href="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/speed.PNG">
-			<img src="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/speed.PNG"/>
+			<a href="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/energy.PNG">
+			<img src="{{ site.baseurl }}/assets/portfolio/thelostlightofsisu/energy.PNG"/>
 		</a>
 		</li>
 		<li>
